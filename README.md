@@ -41,7 +41,7 @@ The network processes text sequences token-by-token through a 3-layer fully conn
 git clone [https://github.com/AlMatCod/IST-One.git](https://github.com/AlMatCod/IST-One.git)
 
 # 2. Compile the source code
-g++ -O3 main.cpp -o IST-One
+g++ -O3 istonenew.cpp -o IST-One
 
 # 3. Run the AI
 ./IST-One
@@ -49,7 +49,7 @@ g++ -O3 main.cpp -o IST-One
 
 ### 📩 Contact & Socials
 
-* **Author: Alexey Makarenko (AlMatCod)
-* **Email: makarenko05062010@gmail.com
+* Author: Alexey Makarenko (AlMatCod)
+* Email: makarenko05062010@gmail.com
 
 ### Made with love
